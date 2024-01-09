@@ -1,0 +1,13 @@
+form {
+
+  display: flex;
+  flex-direction: column;
+}
+
+
+.login {
+  margin-top: 200px;
+  padding: 40px;
+  width: 100%;
+}
+
